@@ -20,7 +20,7 @@ To install this project, follow these steps:
 2-Open the project directory in VS Code.
 3-Ensure you have Node.js installed on your system.
 4-Install Cypress and the Cucumber preprocessor by running the following command in your terminal:
-npm install cypress cypress-cucumber-preprocessor --save-dev
+npm install 
 
 ## Tests
 
